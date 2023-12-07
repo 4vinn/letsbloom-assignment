@@ -19,7 +19,7 @@
 
 - First connect the postgress database (enter your username, password, hostname and name of database to connect to)
 - Run 'python.py' (Image-1)
-- we can input the seed data by runnning the file 'seed_data.py' (Image-2)
+- we can also input the seed data by runnning the file 'seed_data.py' (Image-2)
 
 Image-1 : 
 <br>
