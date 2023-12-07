@@ -21,6 +21,8 @@
 - Run 'python.py' (Image-1)
 - we can input the seed data by runnning the file 'seed_data.py' (Image-2)
 
-
-<img src="https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png" width="528"/>
-<img src="https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-2.png" width="528"/>
+Image-1 :
+<img src="https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png" width="600"/>
+<br>
+Image-2:
+<img src="https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-2.png" width="600"/>
