@@ -23,3 +23,4 @@
 
 
 ![alt text](https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png?raw=true)
+<img src="[relative/path/in/repository/to/image.svg](https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png)https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png" width="128"/>
