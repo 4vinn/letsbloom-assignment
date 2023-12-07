@@ -22,5 +22,5 @@
 - we can input the seed data by runnning the file 'seed_data.py' (Image-2)
 
 
-![alt text](https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png?raw=true)
-<img src="https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png" width="128"/>
+<img src="https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png" width="528"/>
+<img src="https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-2.png" width="528"/>
