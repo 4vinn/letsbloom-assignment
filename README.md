@@ -22,4 +22,4 @@
 - we can input the seed data by runnning the file 'seed_data.py' (Image-2)
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Vineet-Jakhar/letsbloom-assignment/blob/main/Image-1.png?raw=true)
